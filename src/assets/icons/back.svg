@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linejoin:round;}
+</style>
+<g id="Style-Guide">
+	<g id="Style-Tile-_x2F_-Tablet-Kiosk" transform="translate(-30.000000, -24.000000)">
+		<g id="Global-_x2F_-Top-Bar-_x2F_-Kiosk">
+			<g id="Top-Bar">
+				<g id="Back" transform="translate(30.000000, 24.000000)">
+					<g>
+						<g id="ArrowOut" transform="translate(11.000000, 15.000000)">
+							<path id="Stroke-939" class="st0" d="M23.8,6.7H0"/>
+							<polyline id="Stroke-940" class="st0" points="10,-3.3 0,6.7 9.6,16.4 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

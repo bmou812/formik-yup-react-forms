@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+    margin-top: 10px;
+}
+.title {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    max-width: 100%;
+    text-align: center;
+    color: white;
+}
+.title h3 {
+    justify-content: center;
+    display: flex;
+}

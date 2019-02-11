@@ -1,0 +1,28 @@
+.switch {
+    border: none;
+    width: 44px;
+    height: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+    display: inline-block;
+    background-color: #2b364c;
+}
+.switch.disabled
+{
+  cursor: not-allowed;
+}
+.switch.on > .switchToggle
+{
+    background: #0d54e1;
+    left: 24px;
+}
+.switchToggle {
+    border: none;
+    width: 20px;
+    height: 20px;
+    left: 0;
+    border-radius: 12px;
+    background: white;
+    position: relative;
+    transition: left .2s ease-in-out;
+}

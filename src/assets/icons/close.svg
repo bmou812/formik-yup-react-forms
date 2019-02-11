@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Style-Guide" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style-Tile-/-Tablet-Kiosk" transform="translate(-954.000000, -24.000000)">
+            <g id="Global-/-Top-Bar-/-Kiosk" stroke="#FFFFFF">
+                <g id="Top-Bar">
+                    <g id="Cancel" transform="translate(870.000000, 24.000000)">
+                        <g id="Icon-/-Close" transform="translate(84.000000, 0.000000)">
+                            <g id="CLOSE">
+                                <circle id="Oval-30" stroke-width="2" cx="20" cy="20" r="19"></circle>
+                                <g id="close" stroke-width="1" fill-rule="evenodd" transform="translate(11.636364, 11.636364)" stroke-linejoin="round">
+                                    <path d="M0.363636364,0.363636364 L17.0909091,17.0909091" id="Stroke-772" stroke-width="2"></path>
+                                    <path d="M17.0909091,0.363636364 L0.363636364,17.0909091" id="Stroke-773" stroke-width="2"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
