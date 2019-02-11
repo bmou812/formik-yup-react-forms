@@ -43,7 +43,7 @@ class StepE extends React.Component {
           titles={getSectionTitles["StepE"]}
           progressPercentage={100}
         />
-        <section className="grid-container">
+        <section className="grid-container fade-in">
           <div className="grid-x m2">
             <div className="small-6 m2 small-offset-3">
               Your Booking is confirmed. Booking Ref: <b>{Date.now()}</b>.

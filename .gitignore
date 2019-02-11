@@ -62,3 +62,6 @@ typings/
 
 # mac cleanup
 .DS_Store
+
+# output
+dist/

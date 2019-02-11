@@ -43,7 +43,7 @@ class StepB extends React.Component {
           titles={getSectionTitles["StepB"]}
           progressPercentage={40}
         />
-        <section className="grid-container">
+        <section className="grid-container fade-in">
           <div className="grid-x m2">
             <div className="small-6 m2 small-offset-3">
               <ToggleButton

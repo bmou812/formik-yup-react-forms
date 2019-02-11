@@ -43,7 +43,7 @@ class StepA extends React.Component {
           titles={getSectionTitles['StepA']}
           progressPercentage={20}
         />
-        <section className="grid-container">
+        <section className="grid-container fade-in">
           <div className="grid-x">
             <div className="small-3" />
             <div className="m1 small-6">

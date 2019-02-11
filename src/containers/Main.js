@@ -57,7 +57,7 @@ class Main extends Component {
           </div>
         </div>
         <footer>
-          <a href="https://www.adweek.com/brand-marketing/living-coral-is-pantones-2019-color-of-the-year/">Background Inspired from #Pantone - Design with Purpose 2019
+          <a href="https://www.adweek.com/brand-marketing/living-coral-is-pantones-2019-color-of-the-year/">Background Inspired from Color of the Year 2019 - Pantone - #DesignWithPurpose
           </a>
         </footer>
       </React.Fragment>

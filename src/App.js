@@ -13,7 +13,7 @@ class App extends React.Component {
     return (
         <div className={styles.app}>
           <Switch>
-            <Route exact path="/" component={Main} />
+            <Route path="/" component={Main} />
           </Switch>
         </div>
     );

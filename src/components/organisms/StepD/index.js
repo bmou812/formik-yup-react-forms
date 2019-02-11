@@ -24,7 +24,7 @@ const StepD = props => {
         titles={getSectionTitles['StepD']}
         progressPercentage={80}
       />
-      <section className="grid-container">
+      <section className="grid-container fade-in">
         <div className="grid-x">
           <div className="small-3" />
           <div className="small-6 mb2">

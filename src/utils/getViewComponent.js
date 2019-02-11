@@ -15,6 +15,8 @@ const MapChunk = {
   StepE
 };
 
+window.mapper = MapChunk;
+
 window.MapChunk = {
   StepA: "",
   StepB: "",
